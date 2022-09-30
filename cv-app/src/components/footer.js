@@ -5,7 +5,7 @@ function Footer(){
     return(
         <>
         <div id="footer">
-            <img src={Github} id="github" href="https://github.com/amyasmith"></img>
+            <img src={Github} id="github" href="https://github.com/amyasmith" alt="Github logo"></img>
         </div>
         </>
     )
