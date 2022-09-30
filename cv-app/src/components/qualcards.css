@@ -1,0 +1,21 @@
+#cards{
+    background-color: black;
+    width: 100%;
+    color: white;
+    max-width: 100%;
+    height: 240px !important;
+    align-content: center;
+}
+
+#cardtext{
+    filter: drop-shadow(-2px 2px 48px black);
+}
+
+#overlay{
+    position:absolute;
+    bottom:0;
+}
+
+#cardimg{
+    filter: brightness(65%);
+}

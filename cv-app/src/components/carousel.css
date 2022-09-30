@@ -1,0 +1,10 @@
+img {
+    height: 650px !important;
+    width: 100% !important;
+    object-fit: cover;
+    filter: brightness(90%);
+}
+
+#cardtext {
+    filter: drop-shadow(0px 0px 48px black);
+  }
